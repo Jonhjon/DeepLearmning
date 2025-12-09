@@ -1,0 +1,7 @@
+class,train,val,test,total
+Blight,1073,171,368,1612
+Common_Rust,1229,195,421,1845
+Gray_Leaf_Spot,529,86,181,796
+Healthy,1093,174,352,1619
+
+TOTAL,3924,626,1322,5872
