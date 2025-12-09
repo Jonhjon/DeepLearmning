@@ -1,0 +1,8 @@
+class,precision,recall,f1,support
+Blight,0.8182,0.9364,0.8733,173
+Common_Rust,0.9592,0.9543,0.9567,197
+Gray_Leaf_Spot,0.8852,0.6207,0.7297,87
+Healthy,0.9887,1.0000,0.9943,175
+
+,0.9128,0.8778,0.8885
+overall_accuracy,0.9161

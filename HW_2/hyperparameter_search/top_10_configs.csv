@@ -1,0 +1,11 @@
+Rank,Model,Kernel_Size,Padding,Stride,Val_Accuracy,Test_Accuracy
+1,SimpleCNN2_deeper,3,1,1,0.9744,0.9351
+2,SimpleCNN2_deeper,3,2,1,0.9712,0.9525
+3,SimpleCNN,5,0,1,0.9681,0.9446
+4,SimpleCNN2_deeper,5,2,1,0.9681,0.9478
+5,SimpleCNN,5,2,1,0.9665,0.9478
+6,SimpleCNN2_deeper,5,3,1,0.9665,0.9525
+7,SimpleCNN2_deeper,7,3,1,0.9649,0.9557
+8,SimpleCNN,7,2,1,0.9633,0.9320
+9,SimpleCNN2_deeper,3,0,1,0.9633,0.9478
+10,SimpleCNN2_deeper,3,3,1,0.9633,0.9509

@@ -1,0 +1,7 @@
+Model,Kernel_Size,Best_Val_Accuracy,Test_Accuracy,Best_Val_Acc_%,Test_Acc_%
+SimpleCNN,3x3,0.9633,0.9462,96.33%,94.62%
+SimpleCNN,5x5,0.9665,0.9557,96.65%,95.57%
+SimpleCNN,7x7,0.9665,0.9399,96.65%,93.99%
+SimpleCNN2_deeper,3x3,0.9712,0.9541,97.12%,95.41%
+SimpleCNN2_deeper,5x5,0.9681,0.9509,96.81%,95.09%
+SimpleCNN2_deeper,7x7,0.9617,0.9557,96.17%,95.57%
