@@ -1,0 +1,21 @@
+lr = 0.1
+op = SGD
+Test Accuracy : 0.6893,
+Test Precision : 0.6818,
+Test Recall: 0.6893,
+Test F1 Score: 0.6851
+
+lr = 0.5
+op = SGD
+epoch = 2000
+Test Accuracy : 0.7085,
+Test Precision : 0.6947,
+Test Recall: 0.7085,
+Test F1 Score: 0.7002
+
+lr = 0.01
+op = adam
+Test Accuracy : 0.7412,
+Test Precision : 0.7263,
+Test Recall: 0.7412,
+Test F1 Score: 0.7288
