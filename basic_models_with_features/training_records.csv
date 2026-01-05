@@ -1,0 +1,7 @@
+﻿實驗時間,實驗資料夾,特徵提取器,池化方式,模型類型,輸入特徵維度,隱藏層大小,層數,Dropout率,學習率,批次大小,總參數量,可訓練參數量,最佳Epoch,測試準確率,測試精確率,測試召回率,測試F1分數,訓練時間(分鐘)
+20260105_193539,HW3/basic_models_with_features\rnn_20260105_193539,intfloat/multilingual-e5-large,cls,RNN,1024,256,2,0.3,0.001,64,1051650,1051650,9,0.9287,0.9291,0.9287,0.9287,0.27
+20260105_193556,HW3/basic_models_with_features\lstm_20260105_193556,intfloat/multilingual-e5-large,cls,LSTM,1024,256,2,0.3,0.001,64,4203522,4203522,4,0.9297,0.9297,0.9297,0.9297,0.37
+20260105_193620,HW3/basic_models_with_features\gru_20260105_193620,intfloat/multilingual-e5-large,cls,GRU,1024,256,2,0.3,0.001,64,3152898,3152898,8,0.9282,0.9283,0.9282,0.9282,0.35
+20260105_194244,HW3/basic_models_with_features\rnn_20260105_194244,intfloat/multilingual-e5-large,cls,RNN,1024,256,2,0.3,0.001,64,1051650,1051650,18,0.9227,0.9230,0.9227,0.9227,0.28
+20260105_194302,HW3/basic_models_with_features\lstm_20260105_194302,intfloat/multilingual-e5-large,cls,LSTM,1024,256,2,0.3,0.001,64,4203522,4203522,8,0.9295,0.9295,0.9295,0.9295,0.39
+20260105_194326,HW3/basic_models_with_features\gru_20260105_194326,intfloat/multilingual-e5-large,cls,GRU,1024,256,2,0.3,0.001,64,3152898,3152898,12,0.9266,0.9266,0.9266,0.9266,0.34
