@@ -1,0 +1,18 @@
+﻿實驗時間,大型語言模型編碼器,分類模型類型,準確度 (Accuracy),精確度 (Precision),召回率 (Recall),F1分數 (F1-Score),訓練輪數,批次大小,學習率,隱藏層大小,Dropout率,學習率調度器
+20260101_163059,intfloat/multilingual-e5-large,simple,0.9331,0.9332,0.9331,0.9331,50,200,2e-05,512,0.2,
+20260101_172854,intfloat/multilingual-e5-large,simple,0.9307,0.9308,0.9307,0.9307,50,200,2e-05,512,0.3,
+20260101_183656,bert-base-chinese,simple,0.9187,0.919,0.9187,0.9186,50,200,2e-05,512,0.2,
+20260101_185647,bert-base-chinese,simple,0.9193,0.9194,0.9193,0.9193,50,200,2e-05,512,0.3,
+20260101_191643,hfl/chinese-roberta-wwm-ext,simple,0.9168,0.9169,0.9168,0.9169,50,200,2e-05,512,0.2,
+20260101_193632,hfl/chinese-roberta-wwm-ext,simple,0.9156,0.9156,0.9156,0.9156,50,200,2e-05,512,0.3,
+20260101_195628,hfl/chinese-bert-wwm-ext,simple,0.9204,0.9204,0.9204,0.9204,50,200,2e-05,512,0.2,
+20260101_201618,hfl/chinese-bert-wwm-ext,simple,0.9231,0.9231,0.9231,0.9231,50,200,2e-05,512,0.3,None
+20260102_203944,uer/roberta-base-finetuned-dianping-chinese,simple,0.9224,0.9225,0.9224,0.9224,50,200,2e-05,512,0.3,None
+20260102_205858,hfl/chinese-roberta-wwm-ext,simple,0.9138,0.9138,0.9138,0.9138,50,200,2e-05,512,0.3,None
+20260102_211816,IDEA-CCNL/Erlangshen-RoBERTa-110M-Sentiment,simple,0.9806,0.9806,0.9806,0.9806,50,200,2e-05,512,0.3,None
+20260102_213735,hfl/chinese-macbert-base,simple,0.9192,0.9192,0.9192,0.9192,50,200,2e-05,512,0.3,None
+20260102_215658,hfl/rbt3,simple,0.8766,0.8769,0.8766,0.8766,50,200,2e-05,512,0.3,None
+20260102_220329,hfl/chinese-electra-180g-base-discriminator,simple,0.8342,0.8358,0.8342,0.8339,50,200,2e-05,512,0.3,None
+20260103_222957,IDEA-CCNL/Erlangshen-RoBERTa-110M-Sentiment,simple,0.9802,0.9803,0.9802,0.9802,50,200,2e-05,512,0.3,None
+20260103_235533,IDEA-CCNL/Erlangshen-RoBERTa-110M-Sentiment,simple,0.9803,0.9803,0.9803,0.9803,50,200,2e-05,512,0.3,None
+20260103_235549,IDEA-CCNL/Erlangshen-RoBERTa-110M-Sentiment,simple,0.9802,0.9802,0.9802,0.9802,50,200,2e-05,512,0.3,None
